@@ -1,0 +1,13 @@
+{
+  "main.css": "/sapp/static/css/main.1a053835.chunk.css",
+  "main.js": "/sapp/static/js/main.c866d4d8.chunk.js",
+  "main.js.map": "/sapp/static/js/main.c866d4d8.chunk.js.map",
+  "static/js/1.43fe12da.chunk.js": "/sapp/static/js/1.43fe12da.chunk.js",
+  "static/js/1.43fe12da.chunk.js.map": "/sapp/static/js/1.43fe12da.chunk.js.map",
+  "runtime~main.js": "/sapp/static/js/runtime~main.1df0eadf.js",
+  "runtime~main.js.map": "/sapp/static/js/runtime~main.1df0eadf.js.map",
+  "static/css/main.1a053835.chunk.css.map": "/sapp/static/css/main.1a053835.chunk.css.map",
+  "index.html": "/sapp/index.html",
+  "precache-manifest.7488fc8f994a8779083b31d01eac8f17.js": "/sapp/precache-manifest.7488fc8f994a8779083b31d01eac8f17.js",
+  "service-worker.js": "/sapp/service-worker.js"
+}
